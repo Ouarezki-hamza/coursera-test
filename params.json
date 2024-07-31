@@ -1,0 +1,13 @@
+{
+    "parameter1": "value1",
+    "parameter2": "value2",
+    "parameter3": {
+        "subparameter1": "subvalue1",
+        "subparameter2": "subvalue2"
+    },
+    "listParameter": [
+        "item1",
+        "item2",
+        "item3"
+    ]
+}
